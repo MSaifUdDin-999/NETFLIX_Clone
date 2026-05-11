@@ -1,6 +1,4 @@
-# NETFLIX_Clone
-
-# 🎬 Netflix Landing Page Clone
+# 🎬 NETFLIX Landing Page Clone
 
 A high-fidelity, responsive recreation of the Netflix landing page. This project focuses on pixel-perfect styling, mobile-first design, and immersive media integration.
 
