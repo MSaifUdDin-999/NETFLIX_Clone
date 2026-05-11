@@ -60,3 +60,6 @@ git clone https://github.com/your-username/netflix-clone.git
 ## 🤝 Contact
 
 Developed by **M SAIF UD DIN**
+
+Email : **mrsaif1166@gmail.com**
+
