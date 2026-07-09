@@ -4,7 +4,7 @@ A high-fidelity, responsive recreation of the Netflix landing page. This project
 
 ## 🚀 Live Demo
 
-**🌍 https://netflix-clone404.vercel.app/**
+**🔴 https://netflix-clone404.vercel.app/**
 
 ---
 
