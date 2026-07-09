@@ -4,7 +4,7 @@ A high-fidelity, responsive recreation of the Netflix landing page. This project
 
 ## 🚀 Live Demo
 
-**https://netflix-clone-livid-nine-49.vercel.app/**
+**🚀: https://netflix-clone404.vercel.app/**
 
 ---
 
@@ -55,9 +55,15 @@ git clone https://github.com/your-username/netflix-clone.git
 
 2. Open `index.html` in your favorite browser.
 
+---
+
 ## 🤝 Contact
 
-Developed by **M SAIF UD DIN**
+Linkedin : **https://www.linkedin.com/in/muhammad-saif-ud-din-0b604840b/**
+
+GitHub : **https://github.com/MSaifUdDin-999**
 
 Email : **mrsaif1166@gmail.com**
+
+*Developed with ❤️ by M SAIF UD DIN*
 
