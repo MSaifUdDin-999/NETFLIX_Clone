@@ -48,7 +48,7 @@ A high-fidelity, responsive recreation of the Netflix landing page. This project
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/MSaifUdDin-999/NETFLIX_Clone.git
 
 ```
 
